@@ -10,7 +10,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/<your-github-name>/<your-repo-name>.git
+    repoURL: https://github.com/michaelharrer/workshopluis.git
     targetRevision: HEAD
     path: crossplane/deployment
   destination:
